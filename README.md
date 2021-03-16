@@ -1,7 +1,7 @@
 
 <h2 align="center">I'm Ítalo Carvalho! :speech_balloon:</h2>
 
-## Nice to see you! 😄
+## #Nice to see you! 😄
     📫 How to find me:
     [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%C3%ADtalo-carvalho-994687155)](https://www.linkedin.com/in/%C3%ADtalo-carvalho-994687155)
     [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=contact.italo.carvalho@gmail.com)](mailto:contact.italo.carvalho@gmail.com)
@@ -41,7 +41,7 @@
   </p>
 </ul>
 
-## Github :octocat:
+## #Github Info:octocat:
 <p align="center">
   <a href="https://github.com/Pedrolustosa/github-readme-stats">
     <img
