@@ -4,8 +4,6 @@
 
   👋 Hello I'm Ítalo Carvalho, currently a Front-end developer, going Full-Stack!
   
-  I have a deep desire to learn and improve and my main goal is to reach a level of understading that will allow me to help other devs in need!
-  
   </br>
 
   📫 How to find me:
