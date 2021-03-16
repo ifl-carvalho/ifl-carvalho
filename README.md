@@ -1,5 +1,4 @@
-[![Header](https://raw.githubusercontent.com/ifaithfrost/ifaithfrost/master/readme_header.png "Header")](https://personal-website-ifaithfrost.firebaseapp.com/)
-
+[![Header](https://raw.githubusercontent.com/ifaithfrost/ifaithfrost/master/Github%20Header.jpg)](https://personal-website-ifaithfrost.firebaseapp.com/)
 
 ## #Nice to see you! 😄
 
