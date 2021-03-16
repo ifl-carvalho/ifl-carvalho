@@ -25,14 +25,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%C3%ADtalo-carvalho-994687155)](https://www.linkedin.com/in/%C3%ADtalo-carvalho-994687155)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=contact.italo.carvalho@gmail.com)](mailto:contact.italo.carvalho@gmail.com)
 
-""
+" Hello I'm Ítalo Carvalho, currently a Front-end developer, going to Full-Stack"
 
 :zap: In these last days I am improving my knowledge in:
 <ul>
   
   <li>:books: Skills:</li>
   <br/>
-  <p align="left" margin="0">
+  <p align="left">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
       <img src="https://img.shields.io/badge/Sass-C76494?style=for-the-badge&logo=sass&logoColor=white">
@@ -42,16 +42,16 @@
       <img src="https://img.shields.io/badge/Next-E1E2E7?style=for-the-badge&logo=next.js&logoColor=000000">
       <img src="https://img.shields.io/badge/Jest-944058?style=for-the-badge&logo=jest&logoColor=ffffff">
       <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-
   </p>
   
   <li>:toolbox: Tools:</li>
   <br/>
   <p align="left">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img src="https://img.shields.io/badge/Yarn-2B8AB5?style=for-the-badge&logo=yarn&logoColor=white">
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   </p>
 </ul>
 
