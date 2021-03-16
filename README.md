@@ -1,24 +1,6 @@
 
 <h2 align="center">I'm Ítalo Carvalho! :speech_balloon:</h2>
 
-<p align="center">
-  <a href="https://github.com/Pedrolustosa/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=ifaithfrost&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark"
-    />
-  </a>
-  
-  <a href="https://github.com/ifaithfrost/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifaithfrost&&layout=compact&theme=dark"
-    />
-  </a>
-</p>
-
 ## Nice to see you! 😄
 
 * 📫 How to find me: 
@@ -62,4 +44,22 @@
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
   </p>
 </ul>
+
+<p align="center">
+  <a href="https://github.com/Pedrolustosa/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=ifaithfrost&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark"
+    />
+  </a>
+  
+  <a href="https://github.com/ifaithfrost/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifaithfrost&&layout=compact&theme=dark"
+    />
+  </a>
+</p>
 
