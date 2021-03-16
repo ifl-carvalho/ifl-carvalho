@@ -1,6 +1,4 @@
-
-# [![italo carvalho header](https://user-images.githubusercontent.com/74076031/111244057-f08ef000-85e0-11eb-91ca-d4f57a684d76.png)
-)(https://personal-website-ifaithfrost.firebaseapp.com/)]
+[![Header](https://raw.githubusercontent.com/ifaithfrost/ifaithfrost/master/readme_header.png "Header")](https://personal-website-ifaithfrost.firebaseapp.com/)
 
 
 ## #Nice to see you! 😄
