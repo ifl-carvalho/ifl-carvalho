@@ -28,9 +28,10 @@
 👋 Hello I'm Ítalo Carvalho, currently a Front-end developer, going to Full-Stack
 
 :zap: In these last days I am improving my knowledge in:
-<ul>
-  
-  <li>:books: Skills:</li>
+
+## Knowledge 📚
+<ul>  
+  <li> 💻 Tech I'm Confortable w/:</li>
   <br/>
   <p align="left">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
