@@ -41,7 +41,7 @@
   </p>
 </ul>
 
-## Github Information:
+## Github :octocat:
 <p align="center">
   <a href="https://github.com/Pedrolustosa/github-readme-stats">
     <img
