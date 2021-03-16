@@ -19,13 +19,13 @@
   </a>
 </p>
 
-## Hey Comrades 👋
+## Nice to see you! 😄
 
 * 📫 How to find me: 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%C3%ADtalo-carvalho-994687155)](https://www.linkedin.com/in/%C3%ADtalo-carvalho-994687155)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=contact.italo.carvalho@gmail.com)](mailto:contact.italo.carvalho@gmail.com)
 
-" Hello I'm Ítalo Carvalho, currently a Front-end developer, going to Full-Stack"
+👋 Hello I'm Ítalo Carvalho, currently a Front-end developer, going to Full-Stack
 
 :zap: In these last days I am improving my knowledge in:
 <ul>
