@@ -2,18 +2,11 @@
 <h2 align="center">I'm Ítalo Carvalho! :speech_balloon:</h2>
 
 ## Nice to see you! 😄
-<ul>
-  <li>
     📫 How to find me:
-    <br/>
     [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%C3%ADtalo-carvalho-994687155)](https://www.linkedin.com/in/%C3%ADtalo-carvalho-994687155)
     [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=contact.italo.carvalho@gmail.com)](mailto:contact.italo.carvalho@gmail.com)
-  </li>
   </br>
-  <li>
   👋 Hello I'm Ítalo Carvalho, currently a Front-end developer, going to Full-Stack
-  <li/>
-</ul>
 ## Knowledge 📚
 <ul>  
   <li> 💻 Technology:</li>
