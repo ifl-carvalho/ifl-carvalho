@@ -3,6 +3,8 @@
 ## #Nice to see you! 😄
 
   👋 Hello I'm Ítalo Carvalho, currently a Front-end developer, going Full-Stack!
+  
+  
 
   📫 How to find me:
   
@@ -28,8 +30,8 @@
   <li> 🎓 Studying:</li>
   <br/>
   <p align="left">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=java&logoColor=red">
+      <img src="https://img.shields.io/badge/spring-ffffff?style=for-the-badge&logo=spring&logoColor=green">
   </p>
   
   <li>:toolbox: Tools:</li>
