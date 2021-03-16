@@ -6,11 +6,11 @@
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=Pedrolustosa&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark"
+      src="https://github-readme-stats.vercel.app/api?username=ifaithfrost&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark"
     />
   </a>
   
-  <a href="https://github.com/Pedrolustosa/github-readme-stats">
+  <a href="https://github.com/ifaithfrost/github-readme-stats">
     <img
       align="center"
       height="165"
