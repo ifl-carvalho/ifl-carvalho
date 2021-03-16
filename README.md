@@ -51,7 +51,6 @@
     <img
       align="center"
       height="165"
-      width="50%"
       src="https://github-readme-stats.vercel.app/api?username=ifaithfrost&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=dark"
     />
   </a>
@@ -59,7 +58,6 @@
     <img
       align="center"
       height="165"
-      width="50%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifaithfrost&&layout=compact&theme=dark"
     />
   </a>
