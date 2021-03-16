@@ -30,8 +30,8 @@
   <li> 🎓 Studying:</li>
   <br/>
   <p align="left">
-      <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=ffffff">
-      <img src="hields.io/badge/spring-green?style=for-the-badge&logo=spring&logoColor=ffffff">
+      <img src="https://img.shields.io/badge/Java-EF2623?style=for-the-badge&logo=java&logoColor=ffffff">
+      <img src="hields.io/badge/spring-6AAD3D?style=for-the-badge&logo=spring&logoColor=ffffff">
   </p>
   
   <li>:toolbox: Tools:</li>
