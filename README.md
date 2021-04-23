@@ -60,7 +60,7 @@
 
 ## #Github Info:octocat:
 <p align="start">
-  <a href="https://github.com/Pedrolustosa/github-readme-stats">
+  <a href="https://github.com/ifaithfrost/github-readme-stats">
     <img
       align="center"
       height="165"
