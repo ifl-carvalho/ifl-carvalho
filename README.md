@@ -44,8 +44,8 @@
   <br/>
   <p align="left">
       <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-      <img src="https://img.shields.io/badge/Java-EF2623?style=for-the-badge&logo=java&logoColor=ffffff">
-      <img src="https://img.shields.io/badge/spring-6AAD3D?style=for-the-badge&logo=spring&logoColor=ffffff">
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=ffffff">
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff">
   </p>
   
   <li>:toolbox: Tools:</li>
