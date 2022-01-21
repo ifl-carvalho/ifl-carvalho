@@ -2,7 +2,7 @@
 
 ## #Nice to see you! 😄
 
-  👋 Hello I'm Ítalo Carvalho, currently a Front-end developer, going Full-Stack!
+  👋 Hello I'm Ítalo Carvalho, a Full-Stack developer!
   
   </br>
 
