@@ -61,7 +61,7 @@
   </p>
 </ul>
 
-## #Github Info:octocat:
+## #Github Info :octocat:
 <p align="start">
   <img
     align="center"
