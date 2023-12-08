@@ -50,7 +50,7 @@
       <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff">
   </p>
   
-  <li>:toolbox: Tools:</li>
+  <li> 🔧 Tools:</li>
   <br/>
   <p align="left">
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
