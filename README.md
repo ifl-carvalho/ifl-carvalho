@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔧 Currently working as a Front-end Dev!<br>🔭 But still a "Full cycle" explorer!<br>📖 Deeply rooted in concepts<br>⚡ Enthusiast on new technologies!</p>
+<p align="left">🔧 Currently working as a Front-end Dev!<br>🔭 But still a "Full cycle" explorer!<br>📖 Deeply rooted in concepts!<br>⚡ Enthusiast on new technologies!</p>
 
 ###
 
