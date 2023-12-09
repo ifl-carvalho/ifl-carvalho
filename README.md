@@ -1,4 +1,4 @@
-<img align="left" height="543" src="https://raw.githubusercontent.com/ifaithfrost/ifaithfrost/main/images/ghibli.gif"  />
+<img align="right" height="543" src="https://raw.githubusercontent.com/ifaithfrost/ifaithfrost/main/images/ghibli.gif"  />
 
 ###
 
