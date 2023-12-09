@@ -1,23 +1,33 @@
-<h2 align="center">Hey there! I'm Ítalo. 😶‍🌫️</h2>
+<img align="left" height="600" src="https://i.gifer.com/1fem.gif"  />
 
 ###
 
-<img align="left" height="250" src="https://raw.githubusercontent.com/ifaithfrost/ifaithfrost/master/dramatic.gif"  />
+<h2 align="left">Hey there! I'm Ítalo. 😶‍🌫️ Nice to meet you! 😊</h2>
 
 ###
 
-<h3 align="left">Nice to meet you! 😊</h3>
+<h4 align="left">I'm a self taught developer,</h4>
 
 ###
 
-<p align="left">I'm a self taught developer, <br><br>🔧 Currently working on Front-end!<br><br>🔭 Full cycle explorer!<br>📖 Deeply rooted in concepts<br>⚡ Enthusiast on new technologies!<br><br>📫 How to find me:<br></p>
+<p align="left">🔧 Currently working as a Front-end Dev!<br>🔭 But still a "Full cycle" explorer!<br>📖 Deeply rooted in concepts<br>⚡ Enthusiast on new technologies!</p>
 
+###
+
+<h4 align="left">📫 How to find me:</h4>
+
+###
+
+<div align="left">
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iflsc/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=contact.italo.carvalho@gmail.com)](mailto:contact.italo.carvalho@gmail.com)
+</div>
 
 ###
 
-<br clear="both">
+<h4 align="left">💻 My working tech set:</h4>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -105,16 +115,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="30" alt="babel logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="30" alt="prisma logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ifaithfrost&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ifaithfrost&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ifaithfrost&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
